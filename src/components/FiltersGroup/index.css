@@ -1,0 +1,80 @@
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.employment-list {
+  align-self: flex-start;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input-checkbox {
+  margin-right: 3px;
+}
+.item {
+  display: flex;
+}
+.label-checkbox {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+}
+.salary-list {
+  align-self: flex-start;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.filter-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
+
+Header / index.js .filter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.employment-list {
+  align-self: flex-start;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input-checkbox {
+  margin-right: 8px;
+}
+.item {
+  display: flex;
+  margin-bottom: 10px;
+}
+.label-checkbox {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+}
+.salary-list {
+  align-self: flex-start;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.filter-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
